@@ -7,7 +7,8 @@
   <!-- <img src="https://gpvc.arturio.dev/whidy" alt="profile views"> • -->
   <a href="https://www.whidy.net">Blog</a> •
   <a href="https://segmentfault.com/u/whidy">SegmentFault</a> •
-  <a href="https://stackoverflow.com/users/3089701/whidy">Stackoverflow</a>
+  <a href="https://stackoverflow.com/users/3089701/whidy">Stackoverflow</a> •
+  <a href="https://www.linkedin.com/in/whidy-bai-45334680/">LinkedIn</a>
 </p>
 
 ---
@@ -46,10 +47,10 @@
 
 [![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy&langs_count=5)](https://wakatime.com/@Whidy)
 
-[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) · ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
-If my projects would help you a lot, tell me, and maybe we can sit and talk for a fun life. Drink two cups of [☕](https://ko-fi.com/whidy) will make a big deal.
+If my projects help you a lot, tell me :heart:. Maybe we can sit and talk for a fun life :speech_balloon:. Drink two cups of [☕](https://ko-fi.com/whidy) will make a big deal :handshake:.
 
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
