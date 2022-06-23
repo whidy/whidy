@@ -46,7 +46,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=whidy)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b)
 
