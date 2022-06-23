@@ -42,13 +42,14 @@
 [![Whidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidy&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whidy&theme=buefy-dark&fire=DD2727)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy)](https://wakatime.com/@Whidy)
+[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy&langs_count=5)](https://wakatime.com/@Whidy)
 
-[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b)
+[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) · ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
+If my projects would help you a lot, tell me, and maybe we can sit and talk for a fun life. Drink two cups of [☕](https://ko-fi.com/whidy) will make a big deal.
 
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
-
-If my projects would help you a lot, [☕](https://ko-fi.com/whidy)
