@@ -13,8 +13,11 @@
 ---
 
 :wave: Hi, I am whidy. Fullstack developer from Wuhan, China :cn:
+
 :seedling: I’m currently learning UnoCSS
+
 :hugs: I like write, share and play video games
+
 :envelope: whidy@whidy.net
 
 ---
@@ -37,7 +40,17 @@
 
 ### :fire: My Stats :
 
+<!-- [![Whidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidy&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whidy&theme=buefy-dark&fire=DD2727)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=whidy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b)
 
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
+
+[☕ Buy me a coffee](https://ko-fi.com/whidy)
