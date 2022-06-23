@@ -47,7 +47,7 @@
 
 [![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy&langs_count=5)](https://wakatime.com/@Whidy)
 
-[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+[![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) ![](https://komarev.com/ghpvc/?username=whidy&color=green)
 
 
 If my projects help you a lot, tell me :heart:. Maybe we can sit and talk for a fun life :speech_balloon:. Drink two cups of [☕](https://ko-fi.com/whidy) will make a big deal :handshake:.
