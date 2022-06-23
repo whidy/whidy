@@ -39,9 +39,8 @@
 
 ### :fire: My Stats :
 
-<!-- [![Whidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidy&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whidy&theme=buefy-dark&fire=DD2727)](https://git.io/streak-stats)
+[![Whidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidy&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whidy&theme=buefy-dark&fire=DD2727)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -52,4 +51,4 @@
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
 
-[☕ Buy me a coffee](https://ko-fi.com/whidy)
+If my projects would help you a lot, [☕](https://ko-fi.com/whidy)
