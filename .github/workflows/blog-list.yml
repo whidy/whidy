@@ -1,27 +1,23 @@
-
 name: FETCH_BLOG_LIST
 
 on:
-
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
+
   workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: |
-          curl -X GET "https://admin.whidy.net/api/posts?pagination[page]=1&pagination[pageSize]=5&sort=id:desc&fields[0]=title&fields[1]=updatedAt" \
-            -H "Authorization: Bearer ${{ secrets.STRAPI_API_TOKEN_RSS }}" \
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.15.x
+          cache: npm
+      - run: npm install
+
+      - name: Write blog list
+        run: npm run build

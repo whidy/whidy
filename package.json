@@ -1,0 +1,25 @@
+{
+  "name": "whidy",
+  "version": "1.0.0",
+  "description": "for ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whidy/whidy.git"
+  },
+  "author": "whidy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whidy/whidy/issues"
+  },
+  "homepage": "https://github.com/whidy/whidy#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@actions/core": "^1.9.0"
+  }
+}
