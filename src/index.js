@@ -24,7 +24,8 @@ axios
     const newReadme = buildReadme(readmeData, `\n${md}\n`);
     if (newReadme !== readmeData) {
       fs.writeFileSync("README_TEST.md", newReadme, { encoding: 'utf-8'});
-      commitReadme(process.env.GITHUB_TOKEN, 'update latest blog list')
+      console.log('ready to commit')
+      commitReadme(process.env.GITHUB_TOKEN, ['README_TEST.md'])
     }
   });
 
