@@ -96,9 +96,9 @@ const truncateString = (str, length) => {
  */
 const commitReadme = async (githubToken, readmeFilePaths) => {
   // Getting config
-  const committerUsername = core.getInput('committer_username');
-  const committerEmail = core.getInput('committer_email');
-  const commitMessage = core.getInput('commit_message');
+  const committerUsername = 'whidy_bot';
+  const committerEmail = 'bot@whidy.net';
+  const commitMessage = 'auto update latest blog list';
   // Doing commit and push
   await exec('git', [
     'config',
@@ -115,7 +115,7 @@ const commitReadme = async (githubToken, readmeFilePaths) => {
   await exec('git', ['add', ...readmeFilePaths]);
   await exec('git', ['commit', '-m', commitMessage]);
   await exec('git', ['push']);
-  core.info('Readme updated successfully in the upstream repository');
+  console.log('Readme updated successfully in the upstream repository');
 };
 
 /**
