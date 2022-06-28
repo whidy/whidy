@@ -2,15 +2,7 @@ const fs = require("fs");
 // const path = require("path");
 const axios = require("axios").default;
 // const { data } = require("./api-result.json");
-// const {
-//   updateAndParseCompoundParams,
-//   commitReadme,
-//   truncateString,
-//   buildReadme,
-//   exec,
-//   getParameterisedTemplate,
-//   escapeHTML,
-// } = require("./utils");
+const { buildReadme } = require("./utils");
 axios
   .get(
     "https://admin.whidy.net/api/posts?pagination[page]=1&pagination[pageSize]=5&sort=id:desc&fields[0]=title&fields[1]=updatedAt&fields[2]=slug",
