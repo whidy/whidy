@@ -14,7 +14,7 @@ axios
     const postList = data.data;
     const md = postList
       .map((item, index) => {
-        return `- [${item.attributes.title}](${item.attributes.slug})`;
+        return `- [${item.attributes.title}](https://www.whidy.net/${item.attributes.slug})`;
       })
       .join("\n");
     const readmeData = fs.readFileSync("README.md", "utf8");
