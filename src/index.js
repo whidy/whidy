@@ -18,13 +18,13 @@ const {
 // });
 // console.log(data);
 console.log(__dirname);
+console.log(process.env.STRAPI_API_TOKEN_RSS);
 const md = data
   .map((item, index) => {
     return `- [${item.attributes.title}](${item.attributes.url})`;
   })
   .join("\n");
-const readmeData = fs.readFileSync(path.resolve(__dirname, 'README_TEST.md'), "utf8");
-console.log(readmeData);
+const readmeData = fs.readFileSync('README_TEST.md', "utf8");
 const newReadme = buildReadme(readmeData, `\n${md}\n`);
 console.log(newReadme);
 // fs.writeFileSync(outputFilePath, JSON.stringify(postsArray), { encoding: 'utf-8'});

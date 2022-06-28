@@ -23,4 +23,6 @@ jobs:
       - run: npm install
 
       - name: Write blog list
+        env:
+          STRAPI_API_TOKEN_RSS: ${{ secrets.STRAPI_API_TOKEN_RSS }}
         run: npm run build
