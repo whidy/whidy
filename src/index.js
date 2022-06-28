@@ -23,7 +23,7 @@ const md = data
     return `- [${item.attributes.title}](${item.attributes.url})`;
   })
   .join("\n");
-const readmeData = fs.readFileSync(`README_TEST.md`, "utf8");
+const readmeData = fs.readFileSync(path.resolve(__dirname, 'README_TEST.md'), "utf8");
 console.log(readmeData);
 const newReadme = buildReadme(readmeData, `\n${md}\n`);
 console.log(newReadme);
