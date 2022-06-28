@@ -21,7 +21,7 @@ axios
       .join("\n");
     const readmeData = fs.readFileSync("README_TEST.md", "utf8");
     const newReadme = buildReadme(readmeData, `\n${md}\n`);
-    console.log(newReadme);
+    fs.writeFileSync("README_TEST.md", newReadme, { encoding: 'utf-8'});
   });
 
 // const { data } = await axios.post('http://localhost:1337/api/auth/local', {
