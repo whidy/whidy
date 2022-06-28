@@ -18,7 +18,6 @@ const {
 // });
 // console.log(data);
 console.log(11);
-console.log(exec('pwd'));
 const dir = exec('pwd')
 console.log(22);
 console.log(3, core.getInput("readme_path"));
@@ -27,7 +26,7 @@ const md = data
     return `- [${item.attributes.title}](${item.attributes.url})`;
   })
   .join("\n");
-const readmeData = fs.readFileSync(`${dir}/README_TEST.md`, "utf8");
+const readmeData = fs.readFileSync(`README_TEST.md`, "utf8");
 const newReadme = buildReadme(readmeData, `\n${md}\n`);
 console.log(newReadme);
 // fs.writeFileSync(outputFilePath, JSON.stringify(postsArray), { encoding: 'utf-8'});
