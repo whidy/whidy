@@ -12,7 +12,6 @@ const {
   getParameterisedTemplate,
   escapeHTML,
 } = require("./utils");
-const README_FILE_PATH = core.getInput("readme_path");
 // const { data } = await axios.post('http://localhost:1337/api/auth/local', {
 //   identifier: 'reader@strapi.io',
 //   password: 'strapi',
@@ -20,14 +19,15 @@ const README_FILE_PATH = core.getInput("readme_path");
 // console.log(data);
 console.log(11);
 console.log(exec('pwd'));
+const dir = exec('pwd')
 console.log(22);
-console.log(README_FILE_PATH);
+console.log(3, core.getInput("readme_path"));
 const md = data
   .map((item, index) => {
     return `- [${item.attributes.title}](${item.attributes.url})`;
   })
   .join("\n");
-const readmeData = fs.readFileSync(`${README_FILE_PATH}/README_TEST.md`, "utf8");
+const readmeData = fs.readFileSync(`${dir}/README_TEST.md`, "utf8");
 const newReadme = buildReadme(readmeData, `\n${md}\n`);
 console.log(newReadme);
 // fs.writeFileSync(outputFilePath, JSON.stringify(postsArray), { encoding: 'utf-8'});
