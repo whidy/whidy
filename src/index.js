@@ -19,16 +19,17 @@ const README_FILE_PATH = core.getInput("readme_path");
 // });
 // console.log(data);
 console.log(11);
-exec('pwd')
+console.log(exec('pwd'));
 console.log(22);
 console.log(README_FILE_PATH);
-// const md = data
-//   .map((item, index) => {
-//     return `- [${item.attributes.title}](${item.attributes.url})`;
-//   })
-//   .join("\n");
-// const readmeData = fs.readFileSync("../README_TEST.md", "utf8");
-// const newReadme = buildReadme(readmeData, `\n${md}\n`);
+const md = data
+  .map((item, index) => {
+    return `- [${item.attributes.title}](${item.attributes.url})`;
+  })
+  .join("\n");
+const readmeData = fs.readFileSync(`${README_FILE_PATH}/README_TEST.md`, "utf8");
+const newReadme = buildReadme(readmeData, `\n${md}\n`);
+console.log(newReadme);
 // fs.writeFileSync(outputFilePath, JSON.stringify(postsArray), { encoding: 'utf-8'});
 // const res = fs.writeFileSync("/Users/baishun/webs/whidy/NOTE.md", md, {
 //   encoding: "utf-8",
