@@ -17,8 +17,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-          env:
-              API_TOKEN: ${{ secrets.STRAPI_API_TOKEN_RSS }}
         run: |
           curl -X GET https://admin.whidy.net/api/posts \
             -H "Authorization: Bearer ${{ secrets.STRAPI_API_TOKEN_RSS }}" \
