@@ -2,7 +2,8 @@ const fs = require("fs");
 // const path = require("path");
 const axios = require("axios").default;
 // const { data } = require("./api-result.json");
-const { buildReadme } = require("./utils");
+const { commitReadme, buildReadme } = require("./utils");
+console.log(process.env.GITHUB_REPOSITORY);
 axios
   .get(
     "https://admin.whidy.net/api/posts?pagination[page]=1&pagination[pageSize]=5&sort=id:desc&fields[0]=title&fields[1]=updatedAt&fields[2]=slug",
@@ -21,7 +22,10 @@ axios
       .join("\n");
     const readmeData = fs.readFileSync("README_TEST.md", "utf8");
     const newReadme = buildReadme(readmeData, `\n${md}\n`);
-    fs.writeFileSync("README_TEST.md", newReadme, { encoding: 'utf-8'});
+    if (newReadme !== readmeData) {
+      fs.writeFileSync("README_TEST.md", newReadme, { encoding: 'utf-8'});
+      commitReadme(process.env.GITHUB_TOKEN, 'update latest blog list')
+    }
   });
 
 // const { data } = await axios.post('http://localhost:1337/api/auth/local', {

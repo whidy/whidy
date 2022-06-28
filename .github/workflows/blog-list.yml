@@ -1,9 +1,6 @@
 name: FETCH_BLOG_LIST
 
 on:
-  push:
-    branches: ["main"]
-
   workflow_dispatch:
 
 jobs:
@@ -25,4 +22,5 @@ jobs:
       - name: Write blog list
         env:
           STRAPI_API_TOKEN_RSS: ${{ secrets.STRAPI_API_TOKEN_RSS }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npm run build
