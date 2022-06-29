@@ -38,7 +38,7 @@
 
 ---
 
-### My Lastest Blog
+### :book: My Lastest Blog :
 
 <!-- BLOG-POST-LIST:START -->
 - [AMD黑苹果无法使用Docker的解决办法](https://www.whidy.net/amd-hackintosh-incompatible-docker-desktop-and-solution)
@@ -50,12 +50,14 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Github Stats :
 
 [![Whidy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whidy&theme=dark&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whidy&theme=buefy-dark&fire=DD2727)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whidy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### :watch: My Wakatime Stats :
 
 [![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whidy&langs_count=5)](https://wakatime.com/@Whidy)
 
