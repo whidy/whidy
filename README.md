@@ -65,8 +65,12 @@
 
 ### Nice to meet you
 
-- :heart: If my projects help you a lot, tell me. Or support me and click: [☕](https://ko-fi.com/whidy).
-- :speech_balloon: I wish we may make a big deal togather :handshake:.
-- :raising_hand_man: If you like my github profile and need one for yourself, there are [notes](./NOTE.md) might help you.
-- :blush: Very nice to meet you~
+:heart:&nbsp; If my projects help you a lot, tell me. Or support me and click: [☕](https://ko-fi.com/whidy).
+
+:speech_balloon:&nbsp; I wish we may make a big deal togather :handshake:.
+
+:raising_hand_man:&nbsp; If you like my github profile and need one for yourself, there are [notes](./NOTE.md) might help you.
+
+:blush:&nbsp; Very nice to meet you~
+
 
