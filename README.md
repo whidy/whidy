@@ -63,5 +63,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) ![](https://komarev.com/ghpvc/?username=whidy&color=green)
 
+### Nice to meet you
 
-If my projects help you a lot, tell me :heart:. Maybe we can sit and talk for a fun life :speech_balloon:. Drink two cups of [☕](https://ko-fi.com/whidy) will make a big deal :handshake:.
+- :heart: If my projects help you a lot, tell me. Or support me and click: [☕](https://ko-fi.com/whidy).
+- :speech_balloon: I wish we may make a big deal togather :handshake:.
+- :raising_hand_man: If you like my github profile and need one for yourself, there are [notes](./NOTE.md) might help you.
+- :blush: Very nice to meet you~
+
