@@ -63,7 +63,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/085c2d49-07e2-4a44-8a9d-31099452029b.svg)](https://wakatime.com/@085c2d49-07e2-4a44-8a9d-31099452029b) ![](https://komarev.com/ghpvc/?username=whidy&color=green)
 
-### Nice to meet you
+---
 
 :heart:&nbsp; If my projects help you a lot, tell me. Or support me and click: [☕](https://ko-fi.com/whidy).
 
