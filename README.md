@@ -41,11 +41,11 @@
 ### :book: My Lastest Blog :
 
 <!-- BLOG-POST-LIST:START -->
+- [站点升级到Gatsby v5](https://www.whidy.net/upgrade-to-gatsby-v5)
 - [AMD黑苹果无法使用Docker的解决办法](https://www.whidy.net/amd-hackintosh-incompatible-docker-desktop-and-solution)
 - [UnoCSS动态图标icon无法显示解决方案](https://www.whidy.net/unocss-dynamic-icon-not-show)
 - [Vite使用UnoCSS编译时报错：pluginContext.emitFile is not a function error during build](https://www.whidy.net/unocss-plugincontext-emitfile-error-during-build)
 - [开启macOS点击窗口内任意位置快速拖动功能](https://www.whidy.net/enable-macos-click-window-anywhere-to-drag)
-- [macOS必备软件Clipy配置备份](https://www.whidy.net/clipy-config-backup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
