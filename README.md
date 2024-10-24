@@ -67,7 +67,7 @@
 
 :heart:&nbsp; If my projects help you a lot, tell me. Or support me and click: [☕](https://ko-fi.com/whidy).
 
-:speech_balloon:&nbsp; I wish we may make a big deal togather :handshake:.
+:speech_balloon:&nbsp; I wish we may make a big deal together :handshake:.
 
 :raising_hand_man:&nbsp; If you like my github profile and need one for yourself, there are [notes](./NOTE.md) might help you.
 
